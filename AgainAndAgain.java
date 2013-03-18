@@ -2,7 +2,8 @@ public class AgainAndAgain
 {
   public static void main(String[]args)
   {
-    again(5.0);
+    for(double i = 0; i < 5.0; i++)
+       again(i);
   }
 
   public static void again(double d)
