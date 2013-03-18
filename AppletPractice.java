@@ -1,6 +1,8 @@
 //add three lines that is necessary for running the program
-//
-//
+import javax.swing.*;
+import java.event.ActionListener;
+import java.awt.Graphic;
+
 
 
 //File name AppletPractice.java sub class of JApplet 
