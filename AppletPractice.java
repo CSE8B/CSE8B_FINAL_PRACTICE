@@ -7,7 +7,7 @@
 
 //Draw the graph after the program ran properly and what would happen if line 23 is deleted?
 
-public class __________ extends _________ implements __________
+public class _AppletPractice_________ extends __JApplet_______ implements _______ActionListener___
 {
 	int count;
 	JLabel title;
