@@ -21,4 +21,13 @@ mkdir land
 cd land
 mv ../girls .
 
+Assume WriteData.class is in your home directory
+Do the following
+1. Use absolute path name to mv WriteData.class to your current directory
+2. look through the code in WriteData.class
+3. Run the command that will execute WriteData.class
+4. Move the result file to Sun directory using relative path name
+
+
+
 What will pwd print?
