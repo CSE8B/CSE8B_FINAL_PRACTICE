@@ -31,7 +31,7 @@ Do the following
 
 answers: 
 1. mv /linux/home/WriteData.class /linux/home/Sun/Earth/land
-2. java WriteData.class
+2. java WriteData
 3. mv girls ~/Sun/girls or mv girls ../../girls
 
 
