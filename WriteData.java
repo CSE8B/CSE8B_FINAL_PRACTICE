@@ -1,3 +1,4 @@
+//this is an program that will create a file and put some written text into it.
 import java.io.*;
 
 public class WriteData
